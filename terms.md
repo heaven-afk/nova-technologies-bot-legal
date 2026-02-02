@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+permalink: /terms
+---
+
 # Terms of Service
 
 These Terms govern the use of Discord bots developed and maintained by **Nova Technologies**, including but not limited to NOVA BOT and Major Gaming League bots.
