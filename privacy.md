@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy
+---
+
 # Privacy Policy
 
 Nova Technologies values privacy and transparency.
